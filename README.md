@@ -1,5 +1,5 @@
 # OpenGLAssignments
-Coursework for my Computer Graphics course, using **GLUT**.
+Coursework for University Computer Graphics course, using **GLUT**.
 ## Assignments
 1. Draw a RGB Penrose Triangle
  
